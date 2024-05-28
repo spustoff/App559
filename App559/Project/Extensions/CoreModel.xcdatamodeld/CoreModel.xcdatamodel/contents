@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22757" systemVersion="23C71" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="FilmsModel" representedClassName="FilmsModel" syncable="YES" codeGenerationType="class">
+        <attribute name="filComment" optional="YES" attributeType="String"/>
+        <attribute name="filCompletedE" optional="YES" attributeType="String"/>
+        <attribute name="filEpisodes" optional="YES" attributeType="String"/>
+        <attribute name="filPhoto" optional="YES" attributeType="String"/>
+        <attribute name="filRate" optional="YES" attributeType="String"/>
+        <attribute name="filTitle" optional="YES" attributeType="String"/>
+        <attribute name="filType" optional="YES" attributeType="String"/>
+    </entity>
+</model>
